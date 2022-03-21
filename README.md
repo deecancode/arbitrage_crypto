@@ -20,7 +20,7 @@ https://docs.python-guide.org/starting/installation/
 
 ## Installation Guide
 Run these line to run the program\
-git clone git@github.com:nabelou10/crypto_arbitrage.git\
+git clone 
 cd crypto_arbitrage\
 jupyter lab
 
